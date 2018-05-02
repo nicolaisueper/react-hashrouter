@@ -1,6 +1,6 @@
 {
-  "name": "react-hashrouter",
-  "version": "1.0.0",
+  "name": "@lolpix/react-hashrouter",
+  "version": "0.0.2",
   "description": "A fluent hash based router for React apps",
   "main": "index.js",
   "scripts": {

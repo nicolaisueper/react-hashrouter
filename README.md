@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/nicolaisueper/react-hashrouter.svg?branch=master)](https://travis-ci.org/nicolaisueper/react-hashrouter)
-[![Coverage](https://codecov.io/gh/nicolaisueper/react-hashrouter/branch/master/graph/badge.svg)](https://codecov.io/gh/nicolaisueper/react-hashrouter)
+[![Build Status](https://travis-ci.org/lolPix/react-hashrouter.svg?branch=master)](https://travis-ci.org/lolPix/react-hashrouter)
+[![Coverage](https://codecov.io/gh/lolPix/react-hashrouter/branch/master/graph/badge.svg)](https://codecov.io/gh/lolPix/react-hashrouter)
 ![Zero Dependencies](https://img.shields.io/badge/0-Zero%20Dependencies-green.svg)
 
 
