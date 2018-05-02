@@ -8,7 +8,7 @@
 
 ## Install
 ```
-$ npm install --save react-hashrouter
+$ npm install --save @lolpix/react-hashrouter
 ```
 
 ## Usage example
