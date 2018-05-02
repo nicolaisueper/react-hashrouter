@@ -1,0 +1,57 @@
+{
+  "name": "react-hashrouter",
+  "version": "1.0.0",
+  "description": "A fluent hash based router for React apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaisueper/react-hashrouter.git"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "reactjs",
+    "hash",
+    "router",
+    "hash-router",
+    "render-props"
+  ],
+  "author": "Nicolai Süper (nico@k40s.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolaisueper/react-hashrouter/issues"
+  },
+  "homepage": "https://github.com/nicolaisueper/react-hashrouter#readme",
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-0": "6.24.1",
+    "enzyme": "3.3.0",
+    "enzyme-adapter-react-16": "1.1.1",
+    "jest": "22.4.3",
+    "prettier": "1.12.1",
+    "react": "16.3.2",
+    "react-dom": "16.3.2"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "<rootDir>/*.js?(x)",
+      "!<rootDir>/index.js",
+      "!**/*.test.js"
+    ],
+    "setupFiles": [
+      "<rootDir>/.jestrc.js"
+    ],
+    "testMatch": [
+      "**/?(*.)(spec|test).js?(x)"
+    ]
+  }
+}
